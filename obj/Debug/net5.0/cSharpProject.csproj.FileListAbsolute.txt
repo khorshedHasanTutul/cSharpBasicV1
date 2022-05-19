@@ -1,0 +1,16 @@
+C:\Users\Tutul\Desktop\gitProject\cSharpProject\bin\Debug\net5.0\cSharpProject.exe
+C:\Users\Tutul\Desktop\gitProject\cSharpProject\bin\Debug\net5.0\cSharpProject.deps.json
+C:\Users\Tutul\Desktop\gitProject\cSharpProject\bin\Debug\net5.0\cSharpProject.runtimeconfig.json
+C:\Users\Tutul\Desktop\gitProject\cSharpProject\bin\Debug\net5.0\cSharpProject.runtimeconfig.dev.json
+C:\Users\Tutul\Desktop\gitProject\cSharpProject\bin\Debug\net5.0\cSharpProject.dll
+C:\Users\Tutul\Desktop\gitProject\cSharpProject\bin\Debug\net5.0\cSharpProject.pdb
+C:\Users\Tutul\Desktop\gitProject\cSharpProject\obj\Debug\net5.0\cSharpProject.csproj.AssemblyReference.cache
+C:\Users\Tutul\Desktop\gitProject\cSharpProject\obj\Debug\net5.0\cSharpProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tutul\Desktop\gitProject\cSharpProject\obj\Debug\net5.0\cSharpProject.AssemblyInfoInputs.cache
+C:\Users\Tutul\Desktop\gitProject\cSharpProject\obj\Debug\net5.0\cSharpProject.AssemblyInfo.cs
+C:\Users\Tutul\Desktop\gitProject\cSharpProject\obj\Debug\net5.0\cSharpProject.csproj.CoreCompileInputs.cache
+C:\Users\Tutul\Desktop\gitProject\cSharpProject\obj\Debug\net5.0\cSharpProject.dll
+C:\Users\Tutul\Desktop\gitProject\cSharpProject\obj\Debug\net5.0\refint\cSharpProject.dll
+C:\Users\Tutul\Desktop\gitProject\cSharpProject\obj\Debug\net5.0\cSharpProject.pdb
+C:\Users\Tutul\Desktop\gitProject\cSharpProject\obj\Debug\net5.0\cSharpProject.genruntimeconfig.cache
+C:\Users\Tutul\Desktop\gitProject\cSharpProject\obj\Debug\net5.0\ref\cSharpProject.dll
